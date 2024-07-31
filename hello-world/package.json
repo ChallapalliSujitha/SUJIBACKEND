@@ -1,9 +1,9 @@
 {
   "name": "node-hr",
   "version": "1.0.0",
-  "main": "index.ts",
+  "main": "function.js",
   "scripts": {
-    "start": "nodemon index.ts",
+    "start": "nodemon function=.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
